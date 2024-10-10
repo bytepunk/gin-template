@@ -33,5 +33,5 @@ func LoadConfig() {
 		panic("配置加载失败")
 	}
 
-	fmt.Println(global.GlobalConfig.App.Addr)
+	// fmt.Println(global.GlobalConfig.App.Addr)
 }

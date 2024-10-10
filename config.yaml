@@ -1,2 +1,4 @@
 app:
   addr: 0.0.0.0:8085
+  env: dev
+  version: 0.0.1
